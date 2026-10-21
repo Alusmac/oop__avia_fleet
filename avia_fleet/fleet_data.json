@@ -1,0 +1,24 @@
+[
+    {
+        "type": "PassengerPlane",
+        "tail_number": "UR-12345",
+        "fuel_level": 100.0,
+        "flight_hours": 1.0,
+        "passengers_capacity": 180,
+        "current_passengers": 120
+    },
+    {
+        "type": "CargoPlane",
+        "tail_number": "UR-23456",
+        "fuel_level": 100.0,
+        "flight_hours": 1.0666666666666667,
+        "max_payload_tons": 50,
+        "current_payload_tons": 30
+    },
+    {
+        "type": "MilitaryJet",
+        "tail_number": "UR-34567",
+        "fuel_level": 100.0,
+        "flight_hours": 0.6666666666666666
+    }
+]
